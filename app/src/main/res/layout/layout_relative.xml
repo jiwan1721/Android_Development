@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageBackground"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+
+        android:src="@drawable/jiwan" />
+
+    <TextView
+        android:id="@+id/hero"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageBackground"
+        android:layout_marginTop="5dp"
+
+        android:text="Heloo relatively,"
+        android:textColor="@color/black"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Heloo relatively, k xa k xa testoo"
+
+        android:textColor="@color/black"
+        android:textSize="25sp" />
+
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/drawable/circle.xml" value="0.318" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/drawable/edit_background.xml" value="0.192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/drawable/edit_button.xml" value="0.192" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/drawable/email.xml" value="0.2115" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2115" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/drawable/image_in_circle.xml" value="0.318" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/drawable/input_bg.xml" value="0.3445" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout-land/layout_linear.xml" value="0.1728395061728395" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout/activity_login.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout/activity_login2.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout/layout_constraint.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout/layout_frame.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout/layout_linear.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout/layout_relative.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout/layout_sign_in.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout/login_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SambhoTravels/app/src/main/res/layout/widgets.xml" value="0.3009833262077811" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
